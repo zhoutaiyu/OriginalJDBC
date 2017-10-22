@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="originalJDBC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="originalJDBC.war">
+      <element id="artifact" artifact-name="originalJDBC:war exploded" />
+    </root>
+  </artifact>
+</component>
